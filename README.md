@@ -69,7 +69,7 @@ python manage.py runserver
 
 Ajin
 
-GitHub: https://github.com/AjinCodeHub/Django_Blog \n
+GitHub: https://github.com/AjinCodeHub/Django_Blog
 
 
 ## 📄 License
