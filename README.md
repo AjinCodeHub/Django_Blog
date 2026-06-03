@@ -42,7 +42,7 @@ A feature-rich Blog Management System built with Django, designed for learning a
 - Static File Configuration
 
 ### Live Link
-- https://github.com/AjinCodeHub/Django_Blog
+- https://ajin.pythonanywhere.com
 
 ## 🛠️ Technologies Used
 
